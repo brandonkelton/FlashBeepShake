@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlashBeepShake</string>
+    <string name="button_lightOn">Turn On Light</string>
+    <string name="button_lightOff">Turn Off Light</string>
+    <string name="button_beepOn">Turn On Beep</string>
+    <string name="button_beepOff">Turn Off Beep</string>
+    <string name="button_vibrateOn">Turn On Vibrate</string>
+    <string name="button_vibrateOff">Turn Off Vibrate</string>
+</resources>
