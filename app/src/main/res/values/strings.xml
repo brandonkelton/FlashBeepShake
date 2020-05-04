@@ -6,4 +6,6 @@
     <string name="button_beepOff">Turn Off Beep</string>
     <string name="button_vibrateOn">Turn On Vibrate</string>
     <string name="button_vibrateOff">Turn Off Vibrate</string>
+    <string name="buttonLabel_BeServer">Be Server</string>
+    <string name="buttonLabel_BeClient">Be Client</string>
 </resources>
